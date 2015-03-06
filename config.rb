@@ -23,6 +23,7 @@
 # with_layout :admin do
 #   page "/admin/*"
 # end
+page "/support.html", :layout => :slim_layout
 
 page "/donors.html", :layout => :slim_layout
 
