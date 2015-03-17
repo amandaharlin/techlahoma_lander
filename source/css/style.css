@@ -1290,6 +1290,12 @@
 		margin-bottom: 30px;
 	}
 
+	.donors-company__heading,
+	.donors-individual__heading {
+		margin-bottom: 0;
+		text-align: center;
+	}
+
 	.donors-company:after,
 	.donors-individual:after {
 		content: "";
@@ -1321,12 +1327,6 @@
 		text-align: center;
 		font-weight: bold;
 		font-size: 1.3em;
-	}
-
-	.donors-company__heading,
-	.donors-individual__heading {
-		margin-left: 15%;
-		margin-bottom: 0;
 	}
 
 	/* Individuals */
