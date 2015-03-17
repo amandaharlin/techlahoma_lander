@@ -1,0 +1,31 @@
+---
+title: Techlahoma - Donors
+---
+<div class="page-donors">
+  <h1>Proudly Sponsored By&hellip;</h1>
+  <h2 class="donors-company__heading">These Companies&hellip;</h2>
+  <ul class="donors-company">
+    <% data.donors_company.each do |company| %>
+    <li class="donor-company">
+      <div class="donor-company__image">
+        <img src="images/donors/company/<%= company.image_url %>" alt="<%= company.name %>" />
+      </div>
+      <span class="donor-company__level"><%= company.level %></span>
+    </li>
+    <% end %>
+  </ul>
+  <h2 class="donors-individual__heading">And These People&hellip;</h2>
+  <ul class="donors-individual">
+    <% data.donors_individual.each do |individual| %>
+    <li class="donor-individual">
+      <div class="donor-individual__image">
+        <img src="images/donors/individual/<%= individual.image_url %>" alt="<%= individual.name %>" />
+      </div>
+      <div class="donor-individual__tooltip">
+        <h3 class="donor-individual__name"><%= individual.name %></h3>
+        <span class="donor-individual__level"><%= individual.level %></span>
+      </div>
+    </li>
+    <% end %>
+  </ul>
+</div>
