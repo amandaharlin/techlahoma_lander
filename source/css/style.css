@@ -1094,6 +1094,12 @@
 		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
 	}
 
+	#header.slim
+	{
+		padding-top: 3em;
+		padding-bottom: 4em;
+	}
+
 		#header h1
 		{
 			font-family: 'Arvo';
