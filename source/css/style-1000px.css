@@ -39,7 +39,7 @@
 			{
 				margin: 0 0 2.5em 0;
 			}
-			
+
 /*********************************************************************************/
 /* Wrappers                                                                      */
 /*********************************************************************************/
@@ -52,17 +52,17 @@
 	{
 		padding: 4em 0 4em 0;
 	}
-	
+
 	#banner-wrapper
 	{
 		padding: 2em 0 2em 0;
 	}
-	
+
 	#main-wrapper
 	{
 		padding: 4em 0 4em 0;
 	}
-	
+
 	#footer-wrapper
 	{
 		padding: 4em 0 6em 0;
@@ -81,7 +81,7 @@
 		{
 			font-size: 2.5em;
 		}
-		
+
 		#header p
 		{
 			margin: 2em 0 0 0;
@@ -103,12 +103,12 @@
 /*********************************************************************************/
 /* Banner                                                                        */
 /*********************************************************************************/
-	
+
 	#banner
 	{
 		padding: 7em 0 7em 0;
 	}
-		
+
 /*********************************************************************************/
 /* Copyright                                                                     */
 /*********************************************************************************/
@@ -118,3 +118,51 @@
 		margin-top: 5em;
 		padding-top: 2em;
 	}
+
+	/*********************************************************************************/
+	/* Donors                                                                        */
+	/*********************************************************************************/
+		.page-donors h1 {
+			margin-left: 10%;
+		}
+
+		.donors-company__heading,
+		.donors-individual__heading {
+			margin-bottom: 0;
+			text-align: center;
+		}
+
+		.donors-company {
+			width: 80%;
+			margin-left: 10%;
+			margin-right: 10%;
+		}
+
+		.donor-company {
+			width: 48%;
+			margin-right: 2%;
+		}
+
+		/* Individuals */
+		.donors-individual {
+			width: 70%;
+			margin: 20px 15% 40px 15%;
+		}
+		.donor-individual {
+			float: left;
+			width: 25%;
+			height: 0;
+			padding-bottom: 25%;
+			position: relative;
+		}
+		.donor-individual:hover .donor-individual__name {
+			display: block;
+		}
+		.donor-individual__image {
+			width: 100%;
+			height: 250px;
+		}
+		.donor-individual__image img {
+			width: 100%;
+			height: auto;
+		}
