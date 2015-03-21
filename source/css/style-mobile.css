@@ -378,10 +378,17 @@
 		margin-top: 2em;
 		padding-top: 2em;
 	}
+
 img.logo {
 	width: 321px;
 	height: 272px;
 }
+
+.slim img.logo {
+	width: auto;
+	height: auto;
+}
+
 
 /*********************************************************************************/
 /* Donors                                                                        */
