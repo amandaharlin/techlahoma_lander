@@ -3,5 +3,5 @@ rvm:
   - 2.2.2
 script:
   - bundle install
-  - middleman build
-  - middleman deploy
+  - bundle exec middleman build
+  - bundle exec middleman deploy
