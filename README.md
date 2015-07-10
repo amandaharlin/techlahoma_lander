@@ -1,5 +1,6 @@
 techlahoma_lander
 ==
+[ ![Codeship Status for techlahoma/techlahoma_lander](https://codeship.com/projects/592cc2c0-08da-0133-eaaa-7e3d949a1704/status?branch=master)](https://codeship.com/projects/90417)
 
 This project is the landing page for the [Techlahoma Foundation - http://techlahoma.org/](http://techlahoma.org/). It is a static site built with [Middleman - http://middlemanapp.com/](http://middlemanapp.com/) and uses the [HTML5UP](http://html5up.net/) template [Strongly Typed](http://html5up.net/strongly-typed).
 
