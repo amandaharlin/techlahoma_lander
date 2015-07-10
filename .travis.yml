@@ -1,7 +1,0 @@
-language: ruby
-rvm:
-  - 2.2.2
-script:
-  - bundle install
-  - bundle exec middleman build
-  - bundle exec middleman deploy
