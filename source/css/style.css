@@ -1299,6 +1299,11 @@
 		text-align: center;
 	}
 
+  .donors-individual__heading {
+    margin-top:100px;
+    margin-bottom:100px;
+  }
+
 	.donors-company:after,
 	.donors-individual:after {
 		content: "";
