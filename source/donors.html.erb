@@ -14,18 +14,5 @@ title: Techlahoma - Donors
     </li>
     <% end %>
   </ul>
-  <h2 class="donors-individual__heading">And These People&hellip;</h2>
-  <ul class="donors-individual">
-    <% data.donors_individual.each do |individual| %>
-    <li class="donor-individual">
-      <div class="donor-individual__image">
-        <img src="images/donors/individual/<%= individual.image_url %>" alt="<%= individual.name %>" />
-      </div>
-      <div class="donor-individual__tooltip">
-        <h3 class="donor-individual__name"><%= individual.name %></h3>
-        <span class="donor-individual__level"><%= individual.level %></span>
-      </div>
-    </li>
-    <% end %>
-  </ul>
+  <h2 class="donors-individual__heading"><%= link_to "We also have a generous network of individual contributors.", "https://donate.techlahoma.org/donations" %></h2>
 </div>
