@@ -10,19 +10,31 @@
 
     <!-- Use title if it's in the page YAML frontmatter -->
     <title><%= current_page.data.title || "Techlahoma" %></title>
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700" rel="stylesheet" type="text/css" />
-	<link rel="stylesheet" href="css/skel-noscript.css">
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/style-desktop.css">
+
+    <link rel="stylesheet" href="http://localhost:4200/shared/techlahoma.css">
 
 		<script src="javascripts/jquery.min.js"></script>
 		<script src="javascripts/jquery.dropotron.min.js"></script>
 		<script src="javascripts/config.js"></script>
-		<script src="javascripts/skel.min.js"></script>
-		<script src="javascripts/skel-panels.min.js"></script>
 </head>
-<body class="homepage">
-<!-- Header Wrapper -->
+<body class="homepage techlahoma">
+
+  <header class='techlahoma-header-bar'>
+    <div class='app-container'>
+      <a href="/"><span class='techlahoma-logo'>Techlahoma</span></a>
+      <nav id="nav">
+        <ul>
+          <li><a class="fa fa-home" href="/"><span>Home</span></a></li>
+          <!--<li><a class="fa fa-bar-chart-o" href="/"><span>What</span></a></li>-->
+          <li><a class="fa fa-group" href="coc.html"><span>Code of Conduct</span></a></li>
+          <li><a class="fa fa-sitemap" href="http://us.techlahoma.org"><span>Community Site</span></a></li>
+          <li><a class="fa fa-heart" href="support.html"><span>Support</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Header Wrapper -->
 	<div id="header-wrapper">
 	<!-- Header -->
 		<div id="header" class="container">
