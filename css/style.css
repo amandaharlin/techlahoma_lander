@@ -1103,28 +1103,24 @@
     	text-align: center;
     }
 
-    #levels-wrapper {
-    	background:white;
+    #donate-button-wrapper{
+      background:white;
+      text-align:center;
+      padding:2em 0;
     }
 
-    #levels-wrapper li.fa {
-    	padding: 10px 30px 10px 30px;
+    #donate-button-wrapper a{
+      display:inline-block;
+      border-radius:6px;
+      background:#000066;
+      color:white;
+      padding:1em;
+      font-size:2em;
     }
 
-    #levels-wrapper li header {
-    	margin-left: 1em;
+    #donate-button-wrapper a:hover{
+      background:#006600;
     }
-
-    #levels-wrapper .donation {
-    	position: absolute;
-    	top: 0px;
-    	right: 0px;
-    	font-size: 1.25em;
-    	padding: 0.25em 0.5em 0 0;
-    	color: #AAA;
-    	letter-spacing: 2px;
-    }
-
 /*********************************************************************************/
 /* Header                                                                        */
 /*********************************************************************************/
