@@ -1,0 +1,28 @@
+
+<div id="supporting-wrapper" class="container">
+<h1>User Groups</h1>
+
+<div class="row group-row">
+  <% data.official_user_groups.each do |u| %>
+    <div class="6u">
+      <div class="col-techlahoma col-techlahoma-group">
+        <a href="<%= u[:website] %>" class="pull-right"><img src="<%= u[:logo_url] %>" height="75" width="75"
+            alt="<%= u[:name] %>" /></a>
+          <div class="blurb"><h3><%= u[:name] %></h3><%= u[:blurb] %></div>
+          <div>
+            <b>when:</b> <%= u[:meetupdate]%><br/>
+            <b>where:</b> <%= u[:location] %><br/>
+            <b>contact:</b>
+            <% if !u[:email].empty? %>
+              <a href="mailto:<%= u[:email] %>">email</a> |
+            <% end %>
+            <a href="<%= u[:website] %>">website</a>
+            <% if u[:twitter] %>
+               | <a href="https://twitter.com/<%= u[:twitter] %>">twitter</a>
+            <% end %>
+          </div>
+        </div>
+    </div>
+  <% end%>
+</div>
+</div>
