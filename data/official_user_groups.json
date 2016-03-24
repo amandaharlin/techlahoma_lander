@@ -20,27 +20,6 @@
     "blurb": "OKC js is focused on helping Oklahoma Javascripters to connect and share ideas. We hope you will join us."
   },
   {
-
-    "name": "cocoaheads okc",
-    "website": "http://www.cocoaokc.org/",
-    "logo_url": "/images/logos/cocoaokc-xcode.png",
-    "twitter": "cocoaokc",
-    "location": "varies",
-    "email": "",
-    "meetupdate": "First Tuesday @ 6:30pm",
-    "blurb": "Oklahoma City’s local Cocoaheads group devoted to the discussion of iOS and Mac programming."
-  },
-  {
-    "name": "okc sql",
-    "website": "http://okcsql.org",
-    "logo_url": "/images/logos/okcsql.png",
-    "twitter": "okcsql",
-    "location": "dell",
-    "meetupdate": "2nd Monday",
-    "email": "info@okcsql.org",
-    "blurb": "OKC SQL is focused on helping Oklahoma to connect, query, and share ideas. We hope you will join us."
-  },
-  {
     "name": "ok gd",
     "website": "http://okgamedev.com/",
     "logo_url": "/images/logos/okcgd.jpeg",
@@ -73,16 +52,6 @@
     "blurb": "Oklahoma PHP is focused on helping Oklahoma PHP devs to connect and share ideas. We hope you will join us."
   },
   {
-    "name": "okc2600",
-    "website": "http://okc2600.com",
-    "logo_url": "/images/logos/okc2600.gif",
-    "twitter": "",
-    "location": "Cafe Bella (S 89th and Penn)",
-    "meetupdate": "1st Friday",
-    "email": "",
-    "blurb": "All kinds of hackers are welcome to 2600 meetings, regardless of whether you are a seasoned expert or a complete n00b."
-  },
-  {
     "name": "OKC LUGnuts",
     "website": "http://www.okclugnuts.org",
     "logo_url": "/images/logos/tux.png",
@@ -91,26 +60,6 @@
     "meetupdate": "2nd Friday",
     "email": "",
     "blurb": "OKC LUGnuts is a Linux user group that tries to cater to both beginner desktop users and guru sysadmins alike."
-  },
-  {
-    "name": "ISSA-OKC",
-    "website": "http://www.issaokc.org",
-    "logo_url": "/images/logos/issaokc.png",
-    "twitter": "issaokc",
-    "location": "Spaghetti Warehouse",
-    "meetupdate": "3rd Wednesday",
-    "email": "issa.okc@gmail.com",
-    "blurb": "ISSA-OKC is the OKC chapter of the Information Systems Security Association."
-  },
-  {
-    "name": "The Irregulars",
-    "website": "http://www.meetup.com/Oklahoma-City-Ethical-Hacker-Meetup",
-    "logo_url": "/images/logos/root66.png",
-    "twitter": "",
-    "location": "(check meetup.com group)",
-    "meetupdate": "1st and 3rd Wednesday",
-    "email": "",
-    "blurb": "The Irregulars are an ethical hacker group of like minded students and professionals. Also, we host an annual conference called Root-66."
   },
   {
     "name": "OKC Python",
@@ -133,16 +82,6 @@
     "blurb": "Tulsa Web Devs are on a mission to make Tulsa one of the best cities in the world for web developers."
   },
   {
-    "name": "Tulsa WordPress",
-    "website": "http://www.meetup.com/Tulsa-WordPress-meetup/",
-    "logo_url": "/images/logos/tulsa-wordpress.jpeg",
-    "twitter": "",
-    "location": "i2E Tulsa",
-    "meetupdate": "3rd Monday at 6:00pm",
-    "email": "",
-    "blurb": ""
-  },
-  {
     "name": "Code for Tulsa",
     "website": "http://codefortulsa.org/",
     "logo_url": "/images/logos/code-for-tulsa.png",
@@ -151,37 +90,6 @@
     "meetupdate": "3rd Monday at 6:00pm",
     "email": "",
     "blurb": "We are a Code for America brigade improving Tulsa - one commit at a time."
-  },
-  {
-    "name": "Tulsa Java Users Group",
-    "website": "http://www.tulsajava.com/",
-    "logo_url": "/images/logos/tulsa-java.png",
-    "twitter": "",
-    "location": "TCC Southeast",
-    "meetupdate": "2nd Thursday",
-    "email": "",
-    "blurb": ""
-  },
-  {
-    "name": "Tulsa .NET Developers",
-    "website": "http://www.tulsadevelopers.net",
-    "logo_url": "/images/logos/tulsa-dnug.gif",
-    "twitter": "TulsaDNUG",
-    "location": "Warren 2 Building",
-    "meetupdate": "Last Tuesday",
-    "email": "",
-    "blurb": ""
-  },
-  {
-    "name": "OKC MySQL",
-    "website": "http://www.okcmysql.org",
-    "logo_url": "/images/logos/okcmysql-logo.png",
-    "twitter": "okcmysql",
-    "location": "Varies",
-    "meetupdate": "4th Wednesday at 7:00PM",
-    "email": "info@okcmysql.org",
-    "facebook": "https://www.facebook.com/okcmysql",
-    "blurb": "okcmysql.org is an open forum through which users of the MySQL (and related) database can collaborate to grow the local ecosystem"
   },
   {
     "name": "Code Norman",
