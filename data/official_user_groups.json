@@ -1,0 +1,126 @@
+[
+  {
+    "name": "okc ruby",
+    "website": "http://okcruby.org",
+    "logo_url": "/images/logos/okcruby.png",
+    "twitter": "okcrb",
+    "location": "prototek",
+    "meetupdate": "2nd Thursday",
+    "email": "info@okcruby.org",
+    "blurb": "OKC Ruby is focused on helping Oklahoma Rubyists to connect and share ideas. We hope you will join us."
+  },
+  {
+    "name": "okc js",
+    "website": "http://okcjs.org",
+    "logo_url": "/images/logos/okcjs.png",
+    "twitter": "okcjs",
+    "location": "prototek",
+    "meetupdate": "3rd Tuesday",
+    "email": "oklahomacityjavascript@gmail.com",
+    "blurb": "OKC js is focused on helping Oklahoma Javascripters to connect and share ideas. We hope you will join us."
+  },
+  {
+    "name": "ok gd",
+    "website": "http://okgamedev.com/",
+    "logo_url": "/images/logos/okcgd.jpeg",
+    "twitter": " OKGameDevs",
+    "location": "varies",
+    "facebook": "https://www.facebook.com/groups/okgamedevs/",
+    "meetupdate": "Last Thursday",
+    "email": "",
+    "blurb": "OK GD is focused on helping Oklahoma Game Developers to connect and share ideas. We hope you will join us."
+  },
+  {
+
+    "name": "okc jug",
+    "website": "http://okcjug.org",
+    "logo_url": "/images/logos/okcjug.jpeg",
+    "twitter": "okcjug",
+    "location": "prototek",
+    "meetupdate": "2nd Tuesday",
+    "email": "",
+    "blurb": "OKC Jug is focused on helping Oklahoma Java Devs to connect and share ideas. We hope you will join us."
+  },
+  {
+    "name": "oklahoma php",
+    "website": "http://www.meetup.com/OklahomaPHP",
+    "logo_url": "/images/logos/okcphp.jpeg",
+    "twitter": "OklahomaPHP",
+    "location": "The 404",
+    "meetupdate": "1st Thursday",
+    "email": "",
+    "blurb": "Oklahoma PHP is focused on helping Oklahoma PHP devs to connect and share ideas. We hope you will join us."
+  },
+  {
+    "name": "OKC LUGnuts",
+    "website": "http://www.okclugnuts.org",
+    "logo_url": "/images/logos/tux.png",
+    "twitter": "okclugnuts",
+    "location": "the 404",
+    "meetupdate": "2nd Friday",
+    "email": "",
+    "blurb": "OKC LUGnuts is a Linux user group that tries to cater to both beginner desktop users and guru sysadmins alike."
+  },
+  {
+    "name": "OKC Python",
+    "website": "http://www.okcpython.org",
+    "logo_url": "/images/logos/okcpython-logo.png",
+    "twitter": "okcpython",
+    "location": "Prototek",
+    "meetupdate": "2nd Wednesday at 11:30",
+    "email": "ops@okcpython.org",
+    "blurb": "OKC python is focused on helping Oklahoma Pythonistas to connect and share ideas. We hope you will join us."
+  },
+  {
+    "name": "Tulsa Web Devs",
+    "website": "http://tulsawebdevs.org",
+    "logo_url": "/images/logos/tulsa-web-devs.png",
+    "twitter": "tulsawebdevs",
+    "location": "i2E Tulsa",
+    "meetupdate": "3rd Monday at 6:00pm",
+    "email": "luke.crouch@gmail.com",
+    "blurb": "Tulsa Web Devs are on a mission to make Tulsa one of the best cities in the world for web developers."
+  },
+  {
+    "name": "Code for Tulsa",
+    "website": "http://codefortulsa.org/",
+    "logo_url": "/images/logos/code-for-tulsa.png",
+    "twitter": "codefortulsa",
+    "location": "i2E Tulsa",
+    "meetupdate": "3rd Monday at 6:00pm",
+    "email": "",
+    "blurb": "We are a Code for America brigade improving Tulsa - one commit at a time."
+  },
+  {
+    "name": "Code Norman",
+    "website": "http://www.codenorman.org",
+    "logo_url": "/images/logos/codenorman-logo.png",
+    "twitter": "codenorman",
+    "location": "Varies",
+    "meetupdate": "3rd Saturday at 2:00PM",
+    "email": "codenormanmeetup@gmail.com",
+    "facebook": " ",
+    "blurb": "This group is for people who like to code, who like to talk about code, or cannot seem to stop thinking about computers."
+  },
+  {
+    "name": "Code for OKC",
+    "website": "http://codeforokc.org/",
+    "logo_url": "/images/logos/code-for-okc.png",
+    "twitter": "codeforokc",
+    "location": "Prototek",
+    "meetupdate": "4th Monday at 6:00 PM",
+    "email": "codeforokc@gmail.com",
+    "blurb": "Code for OKC is a Code for America Brigade helping innovate government and make OKC better using the open web."
+  },
+  {
+    "name": "Refresh OKC",
+    "website": "http://refreshokc.org",
+    "logo_url": "/images/logos/refreshokc.png",
+    "twitter": "RefreshOKC",
+    "location": "The 404",
+    "meetupdate": "Last Tuesday at 6:30pm",
+    "email": "chat@refreshokc.org",
+    "facebook": " ",
+    "blurb": "Where we strive to bring news & knowledge of today’s most exciting trends and information in the field of Web Design."
+  }
+]
