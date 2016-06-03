@@ -122,5 +122,15 @@
     "email": "chat@refreshokc.org",
     "facebook": " ",
     "blurb": "Where we strive to bring news & knowledge of today’s most exciting trends and information in the field of Web Design."
+  },
+  {
+    "name": "okc#",
+    "website": "http://okcsharp.net/",
+    "logo_url": "/images/logos/okcsharp.png",
+    "twitter": "okcsharp",
+    "location": "prototek",
+    "meetupdate": "1st Monday",
+    "email": "matt@okcsharp.net",
+    "blurb": "OKC# is a .Net centric usergroup located in Oklahoma City, Oklahoma. Oklahoma City is an emerging technology hub with hundreds of .Net developers working in the area."
   }
 ]
